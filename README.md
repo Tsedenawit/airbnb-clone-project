@@ -12,3 +12,6 @@ Backend Developers, code backend part of website
 Product Owner, gives requirement for website
 
 UI Component Patterns
+ Navbar, for navigation
+ Property Card, for info about property
+ and Footer contact info and simple navigation
